@@ -1,0 +1,10 @@
+{
+  "realm": "ARPA_AD_USERS",
+  "auth-server-url": "https://kc.arpa.piemonte.it/auth",
+  "ssl-required": "external",
+  "resource": "taria",
+  "public-client": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0,
+  "enable-cors": true
+}
